@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gander", "Gander\Gander.csproj", "{DD8B2F4F-069F-4BF3-AB5B-2FA232C9528F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{302CB8CE-E7AC-4B10-86F3-6C0D7E1C3AFD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD8B2F4F-069F-4BF3-AB5B-2FA232C9528F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD8B2F4F-069F-4BF3-AB5B-2FA232C9528F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD8B2F4F-069F-4BF3-AB5B-2FA232C9528F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD8B2F4F-069F-4BF3-AB5B-2FA232C9528F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{302CB8CE-E7AC-4B10-86F3-6C0D7E1C3AFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{302CB8CE-E7AC-4B10-86F3-6C0D7E1C3AFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{302CB8CE-E7AC-4B10-86F3-6C0D7E1C3AFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{302CB8CE-E7AC-4B10-86F3-6C0D7E1C3AFD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
